@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/29b49cd3-8351-4146-a9d3-6baa9d540411/thumbnail" >
+</p>
 
 <!--
 **Darkstrider17/Darkstrider17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
